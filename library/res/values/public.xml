@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public name="my_lib" type="string"/>
+    <public name="my_lib_string" type="string"/>
+
+</resources>

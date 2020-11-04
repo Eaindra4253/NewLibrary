@@ -1,0 +1,4 @@
+include ':library-release'
+include ':library'
+include ':app'
+rootProject.name = "TestNewLibrary"
